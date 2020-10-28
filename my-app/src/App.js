@@ -1,11 +1,12 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Contacto from "./componentes/Contacto";
 import Home from "./componentes/Home";
 import Proyectos from "./componentes/Proyectos";
 import Skill from "./componentes/Skill";
 import SobreMi from "./componentes/SobreMi";
 import "./App.css";
+
 
 function App() {
   return (
@@ -41,16 +42,16 @@ function App() {
             <SobreMi />
             <Skill />
             <Proyectos />
+
             <Contacto />
           </Route>
-          {/*           <Route path="/contacto"></Route>
-          <Route path="/proyectos"></Route>
-          <Route path="/skill"></Route>
-          <Route path="/sobreMi"></Route> */}
         </switch>
       </div>
     </Router>
   );
+  
 }
+
+
 
 export default App;
