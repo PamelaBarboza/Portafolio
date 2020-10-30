@@ -1,6 +1,6 @@
 import React from "react";
-import imagenSkill from "../img/je.jpg"
-
+import imagenSkill from "../img/perfil.jpg"
+import "../componentes/Skill.css"; 
 const Skill = () => {
   return (
     <div className="subtitulos">

@@ -1,0 +1,60 @@
+
+.estiloImg {
+      width: 347px;
+  height: 338px;
+  left: 167px;
+  top: 1516px;
+  background: #833a93;
+  object-fit: cover;
+      object-position: center center;
+}
+
+#skill {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 62px 0px;
+}
+
+.columnaText ul li {
+font-weight: bold;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+
+.barBack{
+position: absoluta;
+width: 446px;
+height: 24px;
+left: 832px;
+top: 1588px;
+ z-index: -1;
+
+background: #833a93;
+}
+
+.barFront{
+width: 330px;
+height: 24px;
+left: 832px;
+top: 1588px;
+z-index: 1;
+
+
+background: #C4C4C4;
+}
+.barFrontUi{
+width: 270px;
+height: 24px;
+left: 826px;
+top: 1738px;
+
+background: #C4C4C4;
+}
+
+.columnaText2 ul li{
+  
+    list-style-type: none;
+  text-decoration: none;
+
+}

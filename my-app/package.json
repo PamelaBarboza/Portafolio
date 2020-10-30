@@ -13,7 +13,9 @@
     "react-owl-carousel2": "^0.3.0",
     "react-responsive-carousel": "^3.2.10",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.4"
+    "react-scripts": "3.4.4",
+    "react-slick": "^0.27.12",
+    "slick-carousel": "^1.8.1"
   },
   "scripts": {
     "start": "react-scripts start",

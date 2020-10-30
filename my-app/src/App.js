@@ -8,10 +8,12 @@ import SobreMi from "./componentes/SobreMi";
 import "./App.css";
 
 
+
+
 function App() {
   return (
     <Router>
-      <div className="container">
+      <div>
         <div>
           <nav className="boxMenuNavegacion">
             <ul className="boxListaMenuNavegacion">
