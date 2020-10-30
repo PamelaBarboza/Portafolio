@@ -39,7 +39,7 @@ function App() {
           </nav>
         </div>
         <switch>
-          <Route path="/" exact>
+          <Route>
             <Home />
             <SobreMi />
             <Skill />
