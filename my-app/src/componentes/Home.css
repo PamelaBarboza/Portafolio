@@ -45,7 +45,7 @@
 .portada {
   width: 100%;
   height: 628px;
-  background: #833a93;
+   background-image: url('../img/PORTADA.jpg');
 }
 
 .containerTextNav {

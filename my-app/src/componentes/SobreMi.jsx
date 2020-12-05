@@ -6,6 +6,7 @@ const SobreMi = () => {
       <h2>Sobre Mi</h2>
       <br />
       <br />
+      <div>
       <p>
         Soy apasionada por la tecnología, curiosa y divertida. Me gusta saber
         como funcionan las cosas. Dedicada a programar, cambiar y adaptar el
@@ -21,6 +22,7 @@ const SobreMi = () => {
         Mi mayor reto en la vida fue irme de mi país sola, para buscar y cumplir
         mis sueños.
       </p>
+      </div>
     </div>
   );
 };
