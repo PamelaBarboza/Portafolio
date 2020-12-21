@@ -7,3 +7,17 @@ width: 50%;
 a{
     color: #833a93;
 }
+
+@media only screen and (max-width: 600px) {
+    .img_proyecto img{
+    width: 75%;
+    margin-left: 14%;
+}
+
+.slick-dots {
+    width: 100%;
+    list-style: none;
+    text-align: center;
+        bottom: -17px;
+}
+}

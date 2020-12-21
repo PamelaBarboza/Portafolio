@@ -10,3 +10,20 @@
 #skill{
   padding: 62px;
 }
+
+
+@media only screen and (max-width: 600px) {
+  #sobreMi,
+#proyectos,
+#contacto,
+.subtitulos {
+  padding: 100px 23px 0;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-right: 14px;
+}
+
+#skill{
+  padding: 0px;
+}
+}

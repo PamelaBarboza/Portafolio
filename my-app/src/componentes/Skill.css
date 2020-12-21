@@ -58,3 +58,11 @@ background: #C4C4C4;
   text-decoration: none;
 
 }
+
+
+@media only screen and (max-width: 600px) {
+
+  .barFront,.estiloImg, .columnaText, .barBack, .barFrontUi{
+    display: none;
+  }
+}

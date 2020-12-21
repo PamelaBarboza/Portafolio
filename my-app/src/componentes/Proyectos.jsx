@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import Slider from "react-slick";
 import ProyectoDos from "../img/proyecto_dos.png";
@@ -28,7 +29,7 @@ const Proyectos = () => {
             <br />
             <p>Tecnología utilizada</p>
             <p>
-              <strong>React Firebase GitHub </strong>
+              <strong>React | Firebase | GitHub </strong>
             </p>
             <img src={ProyectoDos} alt="Proyecto Coffee Queen" />
           </div>
@@ -39,7 +40,7 @@ const Proyectos = () => {
             <br />
             <p>Tecnología utilizada</p>
             <p>
-              <strong>React Firebase Git GitHub Bootstrap</strong>
+              <strong>React | Firebase | Git | GitHub | Bootstrap</strong>
             </p>
             <img src={ProyectoUno} alt="Proyecto Comida para todos" />
           </div>
@@ -53,7 +54,7 @@ const Proyectos = () => {
             <br />
             <p>Tecnología utilizada</p>
             <p>
-              <strong>Javascript Firebase Css </strong>
+              <strong>Javascript | Firebase | Css </strong>
             </p>
             <img src={ProyectoTres} alt="Red social - Easycook" />
           </div>
@@ -67,7 +68,7 @@ const Proyectos = () => {
             <br />
             <p>Tecnología utilizada</p>
             <p>
-              <strong>Javascript Css GitHub</strong>
+              <strong>Javascript | Css | GitHub</strong>
             </p>
             <img src={ProyectoCuatro} alt="Data lovers Harry Potter" />
           </div>
@@ -81,7 +82,7 @@ const Proyectos = () => {
             <br />
             <p>Tecnología utilizada</p>
             <p>
-              <strong>Javascript Css GitHub</strong>
+              <strong>Javascript | Css | GitHub</strong>
             </p>
             <img src={ProyectoCinco} alt="Caesar Cipher" />
           </div>
