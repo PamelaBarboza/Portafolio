@@ -62,7 +62,18 @@ background: #C4C4C4;
 
 @media only screen and (max-width: 600px) {
 
-  .barFront,.estiloImg, .columnaText, .barBack, .barFrontUi{
+  .barFront,.estiloImg, .columnaText, .barBack, .barFrontUi, .columnaText2 li{
     display: none;
   }
+.columnaText2{
+margin: 23px 0px -5px;
+}
+
+#skill{
+  background-image: url("../img/skill.png");
+  background-repeat: no-repeat;
+  background-size: 85%;
+    background-position: center center !important;
+      
+}
 }
