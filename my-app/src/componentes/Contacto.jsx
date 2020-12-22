@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import "../componentes/Contacto.css";
 
@@ -17,7 +18,7 @@ const Contacto = () => {
             LinkedIn
           </a>
         </ul>
-        <div className="columnaText2">
+        <div className="columnaText23">
           <ul>
             <li>pamelarabarboza@gmail.com</li>
             <br />
