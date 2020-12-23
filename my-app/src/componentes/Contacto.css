@@ -18,10 +18,13 @@
  
     width: 100%;
     height: 400px;
-    left: -1px;
     top: 1500px;
+    margin-top: 154px;
+    color: black;
+    background-color: white;
+}
 
-  }
+
   .columnaText2 ul li{
     
     display: block;

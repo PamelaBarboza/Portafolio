@@ -19,7 +19,7 @@
   background-position: center center !important;
   width: 500px;
   height: 500px;
-  margin-left: 400px;
+  margin-left: 300px;
 
 }
 
@@ -44,7 +44,11 @@ margin: 23px 0px -5px;
   background-image: url("../img/skill.png");
   background-repeat: no-repeat;
   background-size: 85%;
-    background-position: center center !important;
+  background-position: center center !important;
+  width: 300px;
+  height: 300px;
+  margin-left: 0px;
+  
       
 }
 }
