@@ -4,6 +4,8 @@
   height: 400px;
   left: -1px;
   top: 2500px;
+  background-color: #212529;
+  color: white;
 
 }
 .PamelaFooter {
@@ -20,7 +22,10 @@
     top: 1500px;
 
   }
-  .columnaText23 ul li{
+  .columnaText2 ul li{
+    
     display: block;
+      list-style-type: none;
+  text-decoration: none;
   }
 }

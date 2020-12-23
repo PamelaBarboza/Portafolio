@@ -18,7 +18,7 @@ const Contacto = () => {
             LinkedIn
           </a>
         </ul>
-        <div className="columnaText23">
+        <div className="columnaText2">
           <ul>
             <li>pamelarabarboza@gmail.com</li>
             <br />
@@ -27,7 +27,7 @@ const Contacto = () => {
         </div>
         <div className="PamelaFooter">
           <p>
-            <strong>Frontend developer | Pamela Raquel Barboza - 2020</strong>
+            <strong> Frontend developer | Pamela Raquel Barboza - 2020</strong>
           </p>
         </div>
       </div>
