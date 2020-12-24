@@ -13,6 +13,9 @@ a{
     width: 75%;
     margin-left: 14%;
 }
+#proyectos h2{
+margin-bottom: 38px;
+}
 
 .slick-dots {
     width: 100%;

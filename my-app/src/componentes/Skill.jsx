@@ -3,7 +3,7 @@ import "../componentes/Skill.css";
 const Skill = () => {
   return (
     <div className="subtitulos">
-      <h2>Skill</h2>
+      <h2>Habilidades y herramientas</h2>
       <div id="skill">
       </div>
     </div>

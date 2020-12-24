@@ -157,5 +157,12 @@ h3 {
     font-size: 30px;
     font-weight: lighter;
 }
-   
+ 
+.containerTextNav{
+  background-image: url("../img/fonfon.jpg");
+    background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center center !important;
+
+}
 }
