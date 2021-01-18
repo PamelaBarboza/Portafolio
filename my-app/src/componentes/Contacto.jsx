@@ -10,12 +10,10 @@ const Contacto = () => {
       <div className="columnaText2">
         <ul>
           <a href="https://github.com/PamelaBarboza" target="_blank">
-            GitHub
+            <img src="https://img.icons8.com/nolan/64/github.png" />
           </a>
-          <br />
-          <br />
           <a href="https://www.linkedin.com/in/pamela-barboza/" target="_blank">
-            LinkedIn
+            <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
           </a>
         </ul>
         <div className="columnaText2">
@@ -26,9 +24,7 @@ const Contacto = () => {
           </ul>
         </div>
         <div className="PamelaFooter">
-          <p>
-            <strong> Frontend developer | Pamela Raquel Barboza - 2020</strong>
-          </p>
+          <p> Frontend developer | Pamela Raquel Barboza &#169; 2020</p>
         </div>
       </div>
     </div>

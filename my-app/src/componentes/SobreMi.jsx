@@ -1,4 +1,5 @@
 import React from "react";
+import "../componentes/sobreMi.css"; 
 
 const SobreMi = () => {
   return (
@@ -6,7 +7,7 @@ const SobreMi = () => {
       <h2>Sobre Mi</h2>
       <br />
       <br />
-      <div>
+      <div className="textoSobreMi">
         <p>
           Soy apasionada por la tecnología, curiosa y divertida. Me gusta saber
           como funcionan las cosas. Dedicada a programar, cambiar y adaptar el

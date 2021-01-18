@@ -24,6 +24,7 @@
   margin: 5px;
   overflow: hidden;
   overflow-y: hidden;
+      margin-left: 402px;
 }
 
 .boxListaMenuNavegacion li {
@@ -49,7 +50,11 @@
   width: 100%;
   height: 628px;
    background-image: url('../img/PORTADA.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   
 }
+
 
 .containerTextNav {
   width: 100%;
@@ -113,7 +118,7 @@ h4 {
   position: absolute;
   width: 400px;
   height: 400px;
-  left: 900px;
+  left: 61%;
   top: 201px;
   border-radius: 50%;
 }

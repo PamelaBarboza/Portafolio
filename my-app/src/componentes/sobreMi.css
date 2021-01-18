@@ -1,0 +1,11 @@
+.textoSobreMi{
+font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .textoSobreMi{
+ font-size: 12px ;
+}
+   
+
+}

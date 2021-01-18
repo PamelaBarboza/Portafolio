@@ -11,9 +11,15 @@
 .PamelaFooter {
   display: block;
   text-align: center;
+  margin-top: 100px;
+
 }
 
-@media only screen and (max-width: 600px) {
+a img {
+  width: 4%;
+}
+
+@media(max-width: 600px) {
   .footer {
  
     width: 100%;
@@ -31,4 +37,11 @@
       list-style-type: none;
   text-decoration: none;
   }
+
+
+a img {
+  width: 15%;
 }
+  
+}
+
