@@ -34,7 +34,7 @@ const Proyectos = () => {
             <img src={ProyectoDos} alt="Proyecto Coffee Queen" />
           </div>
           <div className="img_proyecto">
-            <a href="comida-para-todos-595f3.web.app" target="_blank">
+            <a href="https://comida-para-todos-595f3.web.app/" target="_blank">
               Fundación: Comida para todos
             </a>
             <br />
@@ -86,7 +86,6 @@ const Proyectos = () => {
             </p>
             <img src={ProyectoCinco} alt="Caesar Cipher" />
           </div>
- 
         </Slider>
       </div>
     </div>
